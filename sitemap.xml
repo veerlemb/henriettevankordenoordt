@@ -1,26 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://www.henriettevankordenoordt.nl/</loc>
+    <loc>https://henriettevankordenoordt.nl/</loc>
     <lastmod>2026-11-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
 
   <url>
-    <loc>https://www.henriettevankordenoordt.nl/astrologie.html</loc>
+    <loc>https://henriettevankordenoordt.nl/astrologie.html</loc>
     <lastmod>2026-11-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.henriettevankordenoordt.nl/tarot.html</loc>
+    <loc>https://henriettevankordenoordt.nl/tarot.html</loc>
     <lastmod>2026-11-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.henriettevankordenoordt.nl/reiki.html</loc>
+    <loc>https://henriettevankordenoordt.nl/reiki.html</loc>
+    <lastmod>2026-11-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://henriettevankordenoordt.nl/spirituele-communicatie.html</loc>
     <lastmod>2026-11-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
