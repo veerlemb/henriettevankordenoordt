@@ -1,0 +1,18 @@
+Foto's van de website
+=====================
+
+Deze foto's komen van de oude site henriettevankordenoordt.nl.
+
+Een foto vervangen
+------------------
+- Gebruik dezelfde bestandsnaam, of
+- Zet een nieuwe foto in deze map en pas in index.html de regel met fotos/ aan
+  (bestandsnaam, alt-tekst, width en height). Geen zichtbaar bijschrift.
+
+Instagram (henriettevkordenoordt) en Facebook (henriette.kordenoordt)
+vragen om inloggen. Die foto's konden daarom niet automatisch worden
+opgehaald. Sla een foto zelf op, zet hem hier neer en kopieer in index.html
+een bestaand figure-blok in de galerij.
+
+Scherper: gebruik foto's van minstens 1200 pixels breed.
+De portretten uit de oude galerij zijn ongeveer 300 pixels.
