@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.henriettevankordenoordt.nl/sitemap.xml
+Sitemap: https://henriettevankordenoordt.nl/sitemap.xml
